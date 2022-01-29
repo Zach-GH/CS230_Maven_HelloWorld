@@ -1,0 +1,3 @@
+com\dropwizard\helloworld\resources\HelloWorldResource.class
+com\dropwizard\helloworld\HelloWorldApplication.class
+com\dropwizard\helloworld\HelloWorldConfiguration.class
